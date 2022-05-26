@@ -2,7 +2,7 @@
 {
   "name": "repo name",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "repo link",
+  "repository": "https://github.com/tatah32/Alphabot-Md/tree/v10",
   "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
